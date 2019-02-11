@@ -8,7 +8,7 @@
 
 ![Sample Output][image1]
 
-* 尝试过的模型：
+* 基于迁移学习，测试过以下模型的效果：
   * VGG19
   * ResNet-50
   * Inception
