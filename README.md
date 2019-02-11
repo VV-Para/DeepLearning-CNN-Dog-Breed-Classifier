@@ -8,9 +8,10 @@
 
 ![Sample Output][image1]
 
-* 使用的框架/网络架构：
-  * keras
+* 尝试过的模型：
+  * VGG19
   * ResNet-50
+  * Inception
   * Xception
 
 
